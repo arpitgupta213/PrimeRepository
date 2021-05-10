@@ -1,0 +1,5 @@
+com/ubs/prime/configuration/RestConfiguration.class
+com/ubs/prime/configuration/RestApplicationInitializer.class
+com/ubs/prime/ro/PrimeData.class
+com/ubs/prime/rest/PrimeController.class
+com/ubs/prime/service/PrimeService.class
